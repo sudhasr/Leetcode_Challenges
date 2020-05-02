@@ -19,7 +19,7 @@ call isBadVersion(4) -> true
 Then 4 is the first bad version. 
 
 """
-# Time Complexity - O(logN)
+# Time Complexity - O(logn)
 # Space Complexity - O(1)
 
 
